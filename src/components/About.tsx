@@ -18,7 +18,7 @@ const About = () => {
               <div className="w-80 h-96 bg-gradient-to-br from-lime-400 to-green-600 rounded-2xl overflow-hidden transform rotate-3 shadow-2xl">
                 <img
                   src="https://images.pexels.com/photos/3831645/pexels-photo-3831645.jpeg?auto=compress&cs=tinysrgb&w=400"
-                  alt="About"
+                  alt="Professional working at desk"
                   className="w-full h-full object-cover"
                 />
               </div>
